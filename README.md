@@ -11,7 +11,7 @@
 * Метрика: WAUC
 * TTA: D4
 
-# HOW TO RUN
+## HOW TO RUN
 Весь пайплайн находится в файле Alaska2_notebook.ipynb
 
 
